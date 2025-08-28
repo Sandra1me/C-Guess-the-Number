@@ -18,13 +18,13 @@ After correctly guessing the number, the game will display how many attempts it 
 You can compile the program using `gcc`:
 
 ```bash
-gcc guess_the_number.c -o guess_the_number
+gcc guessTheNumber.c -o guessTheNumber
 ```
 
 And run it with:
 
 ```bash
-./guess_the_number
+./guessTheNumber
 ```
 
 <img width="725" height="626" alt="gameplay in hard mode" src="https://github.com/user-attachments/assets/0bcb6fd1-22bf-4459-aba5-27a41bfc6718" />
