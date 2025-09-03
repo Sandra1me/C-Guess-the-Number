@@ -17,13 +17,13 @@ After correctly guessing the number, the game will display how many attempts it 
 
 You can compile the program using `gcc`:
 
-```bash
+```c
 gcc guessTheNumber.c -o guessTheNumber
 ```
 
 And run it with:
 
-```bash
+```c
 ./guessTheNumber
 ```
 
